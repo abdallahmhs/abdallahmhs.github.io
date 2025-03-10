@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /telecom/
+
+# إعادة كتابة الروابط لتحويل الطلبات إلى index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /telecom/index.php [L]

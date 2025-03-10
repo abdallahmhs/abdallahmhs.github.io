@@ -1,0 +1,132 @@
+[28-Feb-2025 11:47:55 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 603010110400002
+            [errorMsg] => 
+        )
+
+)
+
+[28-Feb-2025 11:52:27 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 603010110400002
+            [errorMsg] => 
+        )
+
+)
+
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Undefined array key "renewalDate" in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 184
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Undefined array key 0 in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 187
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 187
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Undefined array key 0 in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 188
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 188
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Undefined array key 0 in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 189
+[28-Feb-2025 11:52:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gazatna4/amsmart.hostey.cloud/telecom/includes/TelecomBase.php on line 189
+[28-Feb-2025 11:52:37 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 60301023110815001
+            [errorMsg] => 
+            [validateResults] => Array
+                (
+                )
+
+        )
+
+    [body] => Array
+        (
+            [ownerList] => Array
+                (
+                )
+
+        )
+
+)
+
+[28-Feb-2025 11:52:45 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 60301023110815001
+            [errorMsg] => 
+            [validateResults] => Array
+                (
+                )
+
+        )
+
+    [body] => Array
+        (
+            [ownerList] => Array
+                (
+                )
+
+        )
+
+)
+
+[28-Feb-2025 11:52:50 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 60301023110815001
+            [errorMsg] => 
+            [validateResults] => Array
+                (
+                )
+
+        )
+
+    [body] => Array
+        (
+            [ownerList] => Array
+                (
+                )
+
+        )
+
+)
+
+[28-Feb-2025 11:52:51 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 60301023110815001
+            [errorMsg] => 
+            [validateResults] => Array
+                (
+                )
+
+        )
+
+    [body] => Array
+        (
+            [ownerList] => Array
+                (
+                )
+
+        )
+
+)
+
+[28-Feb-2025 11:55:04 UTC] ERROR (Level 0): Authentication failed. Response: Array
+(
+    [header] => Array
+        (
+            [retCode] => 9999
+            [errorNo] => 603010110400002
+            [errorMsg] => 
+        )
+
+)
+
